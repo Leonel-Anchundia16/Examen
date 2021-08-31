@@ -1,0 +1,72 @@
+[
+    {
+        "nombre": "Leonel Armando",
+        "apellido": "Anchundia",
+        "cedula": "1315648759",
+        "telefono":"0987654321",
+        "direccion":"Montecristi"   
+    },
+    {
+        "nombre": "Jose",
+        "apellido": "Delgado",
+        "cedula": "1315648758",
+        "telefono":"0987654322",
+        "direccion":"Montecristi"   
+    },
+    {
+        "nombre": "Jonathan",
+        "apellido": "Mendoza",
+        "cedula": "1315648750",
+        "telefono":"0987654323",
+        "direccion":"Los Bajos"   
+    },
+    {
+        "nombre": "Andres",
+        "apellido": "Lucas",
+        "cedula": "1315658759",
+        "telefono":"0987644321",
+        "direccion":"Montecristi"   
+    },
+    {
+        "nombre": "Eddy",
+        "apellido": "Espinoza",
+        "cedula": "1305648759",
+        "telefono":"0980654321",
+        "direccion":"Montecristi"   
+    },
+    {
+        "nombre": "Eliceo ",
+        "apellido": "Cedño",
+        "cedula": "1315648959",
+        "telefono":"0967654321",
+        "direccion":"San Lorenzo"   
+    },
+    {
+        "nombre": "Dayanna",
+        "apellido": "Baque",
+        "cedula": "1315648769",
+        "telefono":"0987654369",
+        "direccion":"Manta"   
+    },
+    {
+        "nombre": "Luis",
+        "apellido": "Anchundia",
+        "cedula": "1315647759",
+        "telefono":"098765721",
+        "direccion":"Manta"   
+    },
+    {
+        "nombre": "Carlos",
+        "apellido": "Chavez",
+        "cedula": "1313648759",
+        "telefono":"0987659321",
+        "direccion":"Montecristi"   
+    },
+    {
+        "nombre": "Andrea",
+        "apellido": "Lucas Lucas",
+        "cedula": "1315641759",
+        "telefono":"0991654321",
+        "direccion":"Montecristi"   
+    }
+]
